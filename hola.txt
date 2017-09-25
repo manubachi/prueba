@@ -1,4 +1,3 @@
 Hola, está es la primera linea.
-Esta es la segunda línea.
 Y la tercera linea.
 Y esta es la cuarta linea.
